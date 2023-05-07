@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Eu sou Jean Lucas,  gosto muito de tecnologia, atualmente crio projetos com:
+
+<br>
+<br>
+• HTML
+• CSS 
+iniciando em: 
+• JavaScript 
